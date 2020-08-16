@@ -28,6 +28,8 @@ Fork and clone/download the repository and change the configuration file with:
 
 If you need help with this step, you can look at my [YouTube video ](https://www.youtube.com/watch?v=6plKL95a134&t=6s) to help you configure it.
 
+Turn off your Wi-Fi / internet access.
+
 Run `python main.py` 
 
 Please feel free to comment or give suggestions!
